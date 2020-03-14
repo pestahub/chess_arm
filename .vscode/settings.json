@@ -2,5 +2,7 @@
     "python.autoComplete.extraPaths": [
         "/opt/ros/melodic/lib/python2.7/dist-packages",
         "/home/pesta/ros_gazebo_test/catkin_ws/src/ar601"
-    ]
+    ],
+    "python.pythonPath": "/usr/bin/python3",
+    "python.linting.enabled": false
 }
